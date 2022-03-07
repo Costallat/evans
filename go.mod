@@ -5,11 +5,11 @@ go 1.12
 require (
 	github.com/Songmu/gocredits v0.2.0
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
-	github.com/fatih/color v1.10.0
+	github.com/fatih/color v1.13.0
 	github.com/golang/protobuf v1.5.2
 	github.com/golangci/golangci-lint v1.39.0
-	github.com/google/go-cmp v0.5.5
-	github.com/goreleaser/goreleaser v0.162.0
+	github.com/google/go-cmp v0.5.7
+	github.com/goreleaser/goreleaser v1.6.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-version v1.3.0
 	github.com/jhump/protoreflect v1.8.2
@@ -25,8 +25,8 @@ require (
 	github.com/lunixbochs/vtclean v1.0.0 // indirect
 	github.com/manifoldco/promptui v0.8.0
 	github.com/matryer/moq v0.2.1
-	github.com/mattn/go-colorable v0.1.8
-	github.com/mattn/go-isatty v0.0.12
+	github.com/mattn/go-colorable v0.1.12
+	github.com/mattn/go-isatty v0.0.14
 	github.com/mattn/go-pipeline v0.0.0-20190323144519-32d779b32768 // indirect
 	github.com/mattn/go-tty v0.0.0-20190424173100-523744f04859 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
@@ -41,10 +41,10 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/tj/go-spin v1.1.0
 	github.com/zchee/go-xdgbasedir v1.0.3
-	go.uber.org/goleak v0.10.0
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/tools v0.1.0
-	google.golang.org/genproto v0.0.0-20201203001206-6486ece9c497
-	google.golang.org/grpc v1.37.0
-	google.golang.org/protobuf v1.26.0
+	go.uber.org/goleak v1.1.10
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/tools v0.1.5
+	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
+	google.golang.org/grpc v1.43.0
+	google.golang.org/protobuf v1.27.1
 )
