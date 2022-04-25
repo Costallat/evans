@@ -8,7 +8,7 @@ require (
 	github.com/fatih/color v1.10.0
 	github.com/golang/protobuf v1.5.2
 	github.com/golangci/golangci-lint v1.39.0
-	github.com/google/go-cmp v0.5.5
+	github.com/google/go-cmp v0.5.6
 	github.com/goreleaser/goreleaser v0.162.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-version v1.3.0
@@ -45,6 +45,6 @@ require (
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/tools v0.1.0
 	google.golang.org/genproto v0.0.0-20201203001206-6486ece9c497
-	google.golang.org/grpc v1.37.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/grpc v1.46.0
+	google.golang.org/protobuf v1.27.1
 )
