@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/Songmu/gocredits v0.2.0
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
-	github.com/fatih/color v1.10.0
+	github.com/fatih/color v1.14.1
 	github.com/golang/protobuf v1.5.2
 	github.com/golangci/golangci-lint v1.39.0
 	github.com/google/go-cmp v0.5.5
@@ -25,8 +25,8 @@ require (
 	github.com/lunixbochs/vtclean v1.0.0 // indirect
 	github.com/manifoldco/promptui v0.8.0
 	github.com/matryer/moq v0.2.1
-	github.com/mattn/go-colorable v0.1.8
-	github.com/mattn/go-isatty v0.0.12
+	github.com/mattn/go-colorable v0.1.13
+	github.com/mattn/go-isatty v0.0.17
 	github.com/mattn/go-pipeline v0.0.0-20190323144519-32d779b32768 // indirect
 	github.com/mattn/go-tty v0.0.0-20190424173100-523744f04859 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
